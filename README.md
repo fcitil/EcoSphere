@@ -2,7 +2,7 @@
 
 An application for developing awareness among users 
 
-#About App
+-->About App
 
 This project is developed for Solution Challenge 2021
 
