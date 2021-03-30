@@ -1,16 +1,14 @@
-# fluttershare
+# EcoSpere
 
-A new Flutter application.
+An application for developing awareness among users 
 
-## Getting Started
+##About App
 
-This project is a starting point for a Flutter application.
+This project is developed for Solution Challenge 2021
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Backend services have nearly been implemented
+- There is a problem about searching realtime landmark data in a certian radial area
+- Front end was design with Adobe_XD
+- Altough app is functionally prototyped in Adobe_XD, there is still deficiencies about frontend system in flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
