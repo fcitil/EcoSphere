@@ -1,6 +1,6 @@
 # EcoSpere
 
-An application for developing awareness among users 
+An application for developing environmental awareness among users 
 
 -->About App
 <table><tr>
